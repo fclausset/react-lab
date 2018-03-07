@@ -1,2 +1,2 @@
 # react-lab
-Learn and experiement with react and redux
+Learn and experiment with react and redux
